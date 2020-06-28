@@ -1,0 +1,27 @@
+body{
+
+    background-color: black;
+}
+
+#name-wrapper{
+
+    text-align: center;
+    font-size: 100px;
+    color: blueviolet;
+    text-shadow: 3px 3px 1px lightblue;
+}
+
+#info-wrapper{
+
+    text-align: right;
+    font-size: 20px;
+    color: white;
+}
+
+img{
+
+    height: 25%;
+    width: 25%;
+    margin: 0 auto;
+    display: block;
+}
